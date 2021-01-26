@@ -27,20 +27,20 @@ Happy tinkering!
 
 Methods:
 
-	//attaches all Servos to the given pins
--	attach(int pinAxis1, int pinAxis2, int pinAxis3, int pinAxis4, int pinAxis5, int pinAxis6);
+//attaches all Servos to the given pins
+* attach(int pinAxis1, int pinAxis2, int pinAxis3, int pinAxis4, int pinAxis5, int pinAxis6);
 
-	//moves the robot to a coordinate with the current set speed
+//moves the robot to a coordinate
 -	void move(int X, int Y, int Z, int U, int V, int W);
 
-	//moves the robot to a saved position with the current set speed
--	void move(int inPosition[6]);
+//moves the robot to a saved position
+* void move(int inPosition[6]);
 
-	//Moves to the home-position {0, 125, 220, 0, 0, 0}
--	void moveHome();
+//Moves to the home-position {0, 125, 220, 0, 0, 0}
+* void moveHome();
 
-	//gets the current state as a String for observing or further programming
--	String getState();
+//gets the current state as a String for observing or further programming
+* String getState();
 
-	//enables or disables the Serial printing of the current state
--	void setSerialSendState(bool sendState);
+//enables or disables the Serial printing of the current state
+* void setSerialSendState(bool sendState);
