@@ -1,0 +1,6 @@
+RoboticArm 		KEYWORD1
+setDimensions		KEYWORD2
+setAxisLimits		KEYWORD2
+moveHome		KEYWORD2
+getState		KEYWORD2
+setSerialSendState	KEYWORD2
