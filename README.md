@@ -4,7 +4,7 @@ Arduino library for a 6-axis robotic arm
 Written 2021 by Joel Lüdi, Version: 1, Published: 26.01.2021
 
 This library allows you to manage your 6-Axis robot.
-It should work with any kind of robotic arm, but was written in the intention to work with this one from Sainsmart:
+It was written in the intention to work with this one from Sainsmart:
 https://www.sainsmart.com/products/6-axis-desktop-robotic-arm-assembled
 For the wiring and setup consider this page:
 http://wiki.sainsmart.com/index.php/DIY_6-Axis_Servos_Control_Palletizing_Robot_Arm_Model_for_Arduino_UNO_MEGA2560
