@@ -18,7 +18,7 @@ Note:
 * All user side units are either in [mm] or [°]
 * CAUTION! Be always careful when working with the moving robot!
 * Always drive small steps! (<10mm)
-* A very big step could cause your robot to move very quickly and destroy its servos, the power sourve or environment! (Yes it happened to me)
+* A very big step could cause your robot to move very quickly and destroy its servos, the power source or environment! (Yes it happened to me)
 
 
 Methods:
