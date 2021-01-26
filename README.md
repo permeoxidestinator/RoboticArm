@@ -3,7 +3,7 @@ Arduino library for a 6-axis robotic arm
 
 Written 2021 by Joel Lüdi
 Version: 1
-Published: 2021
+Published: 26.01.2021
 
 This library allows you to manage your 6-Axis robot.
 It should work with any kind of robotic arm, but was written in the intention to work with this one from Sainsmart:
