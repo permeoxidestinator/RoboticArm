@@ -1,9 +1,7 @@
 # RoboticArm
 Arduino library for a 6-axis robotic arm
 
-Written 2021 by Joel Lüdi
-Version: 1
-Published: 26.01.2021
+Written 2021 by Joel Lüdi, Version: 1, Published: 26.01.2021
 
 This library allows you to manage your 6-Axis robot.
 It should work with any kind of robotic arm, but was written in the intention to work with this one from Sainsmart:
@@ -22,8 +20,7 @@ Note:
 * Always drive small steps! (<10mm)
 * A very big step could cause your robot to move very quickly and destroy its servos, the power sourve or environment! (Yes it happened to me)
 
-I hope you'll be able to realize cool projects with this library
-Happy tinkering!
+I hope you'll be able to realize cool projects with this library! Happy tinkering!
 
 Methods:
 
