@@ -12,7 +12,7 @@ http://wiki.sainsmart.com/index.php/DIY_6-Axis_Servos_Control_Palletizing_Robot_
 Supported functions:
 * Managing of all Servo-side programming
 * Output of the current state of the robot as feedback
-* moveTo-function: sends the robot to a given target-position without a speed limit
+* move-function: sends the robot to a given target-position without a speed limit
 
 Note:
 * All user side units are either in [mm] or [°]
@@ -20,7 +20,6 @@ Note:
 * Always drive small steps! (<10mm)
 * A very big step could cause your robot to move very quickly and destroy its servos, the power sourve or environment! (Yes it happened to me)
 
-I hope you'll be able to realize cool projects with this library! Happy tinkering!
 
 Methods:
 
@@ -41,3 +40,5 @@ Methods:
 
 //enables or disables the Serial printing of the current state
 * void setSerialSendState(bool sendState);
+
+I hope you'll be able to realize cool projects with this library! Happy tinkering!
